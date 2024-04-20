@@ -20,7 +20,6 @@ const Cart = props => {
       <div className={styles.actions}>
         <button className={styles['button--alt']}>Close</button>
         <button className={styles.button}>Order</button>
-        <button></button>
       </div>
     </Modal>
   );
